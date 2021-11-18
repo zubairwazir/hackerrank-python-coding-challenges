@@ -1,4 +1,16 @@
 # HackerRank Python Coding Challenges
 
-`Author` <br>
-`Zubair Ahmad`
+
+### `if-else`
+### `rooter-square-accumulator`
+### `caeser-cipher`
+### `parking-dilema`
+
+<br>
+<hr>
+
+
+
+
+### Author
+## Zubair Ahmad
